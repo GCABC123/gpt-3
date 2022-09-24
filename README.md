@@ -35,7 +35,7 @@ REQUIREMENTS:
 
 [*] HARDWARE REQUIREMENTS: fast TPU/GPU.
 
-[*] DEPENDENCIES: OPENAI API KEY FOR DEMO.
+[*] DEPENDENCIES: SEE THIS NOTEBOOK FOR MORE ON USING GPT-3 AS A BRAIN (IN THE ARTIFICIAL INTELLIGENCE 2.0 FRAMEWORK) ™ : https://github.com/GCABC123/magnetron.artificial-intelligence-2.0.mincloud.proxia--BRAIN-MAIN
 
 =============================================================
 
